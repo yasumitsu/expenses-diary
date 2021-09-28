@@ -1,3 +1,3 @@
-##[Expenses-diary](https://yasumitsu.github.io/expenses-diary/)
+## [Expenses-diary](https://yasumitsu.github.io/expenses-diary/)
 
 Developed with react
